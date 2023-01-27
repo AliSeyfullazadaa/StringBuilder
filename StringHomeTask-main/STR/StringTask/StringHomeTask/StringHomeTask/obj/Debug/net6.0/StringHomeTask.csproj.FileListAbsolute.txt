@@ -1,0 +1,60 @@
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.exe
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.deps.json
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.runtimeconfig.json
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.dll
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.pdb
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfo.cs
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.dll
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\refint\StringHomeTask.dll
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.pdb
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.genruntimeconfig.cache
+C:\Users\User\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\ref\StringHomeTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.exe
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.deps.json
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.runtimeconfig.json
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.pdb
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.AssemblyReference.cache
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfoInputs.cache
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfo.cs
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\refint\StringHomeTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.pdb
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.genruntimeconfig.cache
+C:\Users\Rafael Mehdiyev\Desktop\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\ref\StringHomeTask.dll
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.exe
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.deps.json
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.runtimeconfig.json
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.dll
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.pdb
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfo.cs
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.dll
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\refint\StringHomeTask.dll
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.pdb
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.genruntimeconfig.cache
+C:\Users\User\Desktop\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\ref\StringHomeTask.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.exe
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.deps.json
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.runtimeconfig.json
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\bin\Debug\net6.0\StringHomeTask.pdb
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.AssemblyReference.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfoInputs.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.AssemblyInfo.cs
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\refint\StringHomeTask.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.pdb
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\StringHomeTask.genruntimeconfig.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Tasks\StringHomeTask-main\StringHomeTask-main\STR\StringTask\StringHomeTask\StringHomeTask\obj\Debug\net6.0\ref\StringHomeTask.dll
